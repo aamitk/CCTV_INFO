@@ -1,0 +1,5 @@
+[09-Aug-2021 06:58:18 UTC] PHP Warning:  include(include/config.php): failed to open stream: No such file or directory in /home/of9cglrsw9er/public_html/index.php on line 194
+[09-Aug-2021 06:58:18 UTC] PHP Warning:  include(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/of9cglrsw9er/public_html/index.php on line 194
+[09-Aug-2021 06:58:18 UTC] PHP Notice:  Undefined variable: con in /home/of9cglrsw9er/public_html/index.php on line 197
+[09-Aug-2021 06:58:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/of9cglrsw9er/public_html/index.php on line 197
+[09-Aug-2021 06:58:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/of9cglrsw9er/public_html/index.php on line 199
