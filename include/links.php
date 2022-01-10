@@ -4,7 +4,6 @@
     <title>Home Automation | Smart Home | SONIC SYSTEMS AUTOMATION</title>
     <meta content="" name="description"/>
     <meta content="" name="keywords"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta content="telephone=no" name="format-detection"/>
     <meta name="HandheldFriendly" content="true"/>
     <link rel="stylesheet" href="assets/css/master.css"/>
